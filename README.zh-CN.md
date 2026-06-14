@@ -6,7 +6,7 @@
 
 ![cc-monitor — 状态 / 架构 / skills 三个 tab](docs/screenshot.png)
 
-<sub>↑ 脱敏示意图（假数据），从左到右：状态 / 架构 / skills 三个 tab。</sub>
+<sub>↑ 高保真界面复刻（数据全脱敏），从左到右：状态 / 架构 / skills 三个 tab。</sub>
 
 ## 它显示什么
 

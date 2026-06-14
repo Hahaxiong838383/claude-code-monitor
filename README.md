@@ -9,7 +9,7 @@
 
 ![cc-monitor — status / architecture / skills tabs](docs/screenshot.png)
 
-<sub>↑ Mockup with anonymized sample data (status / architecture / skills tabs).</sub>
+<sub>↑ Faithful UI mockup with fully anonymized sample data — status / architecture / skills tabs.</sub>
 
 ## What it shows
 
