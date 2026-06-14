@@ -1,0 +1,18 @@
+# 编译产物
+*.app/
+/cc-monitor
+/cc-monitor-dock
+/cc-monitor-menubar
+*.dSYM/
+
+# Xcode 构建产物 / 用户态(用户名泄漏)
+xcode/cc-monitor/build/
+**/xcuserdata/
+**/*.xcuserstate
+**/DerivedData/
+
+# macOS
+.DS_Store
+
+# AppIcon PNG 必须入库(覆盖上面无关规则)
+!xcode/cc-monitor/cc-monitor/Assets.xcassets/AppIcon.appiconset/*.png
