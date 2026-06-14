@@ -5,8 +5,11 @@
 >
 > 一个 macOS 菜单栏状态监视器，实时显示 Claude Code 的常驻上下文预算 / 记忆 / git / 引擎团队 / skill 健康度。
 
-<!-- TODO: add screenshots -->
-<!-- ![status](docs/screenshot-status.png) ![architecture](docs/screenshot-arch.png) -->
+**English** · [简体中文](README.zh-CN.md)
+
+![cc-monitor — status / architecture / skills tabs](docs/screenshot.png)
+
+<sub>↑ Mockup with anonymized sample data (status / architecture / skills tabs).</sub>
 
 ## What it shows
 
